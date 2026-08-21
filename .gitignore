@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyd
+build/
+dist/
+*.spec
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.desktop_organizer_config.json
+DesktopOrganizer-source.zip
+release/
